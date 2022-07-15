@@ -20,8 +20,6 @@ function sumOfNumbers(arrayOfNumbers) {
   }
   return sum;
 }
-let items = [1, 2, 8, 9, 1, 8]
-console.log(sumOfNumbers(items))
 
 /**
  * Challenge - 2
@@ -41,8 +39,6 @@ function countEvenNumbers(arrayOfNumbers) {
   }
   return evenNumberCount;
 }
-let numbers = [2, 3, 4, 7, 8];
-console.log(countEvenNumbers(numbers));
 
 /**
  * Challenge - 3
